@@ -1,0 +1,26 @@
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #114511;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  color: #1b6f1b;
+}
+
+h3 {
+  color: #533875;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  align-self: center;
+}
